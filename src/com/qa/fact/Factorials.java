@@ -9,7 +9,8 @@ public class Factorials {
 	public static Integer number() {
 		Scanner numberScanner = new Scanner(System.in);
 		number = numberScanner.nextInt();
-		
+		int number = Factorials.number;
+		int divisor = 2;
 		return number;
 		
 		
