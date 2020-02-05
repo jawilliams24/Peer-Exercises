@@ -7,7 +7,8 @@ public class Runner {
 
 		System.out.println("Enter your number here: ");
 		Integer number = Factorials.number();
-		System.out.println(number);
+//		System.out.println(number);
 		
+
 	}
 }
